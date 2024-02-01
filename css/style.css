@@ -1,0 +1,12 @@
+.btnsContainer{
+    width:500px;
+    margin:0 auto;
+    background:#5a5adc;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+  justify-content: space-around;
+}
+.btnsContainer button{
+    cursor: pointer;
+}
